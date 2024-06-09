@@ -1,3 +1,3 @@
 module github.com/Detlaf/Learn-Go-with-Tests
 
-go 1.22.3
+go 1.23
